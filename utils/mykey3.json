@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "heroic-climber-285504",
+  "private_key_id": "97c664cdd86786393947bba020e7fa10cc00543f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDYxLGNOJjMMKWX\nn8nqlZOprKMQ51MdFQMcp183VqxlKORZalimIoFAJ/S3O2TvSD4fy97R2AgEtjWP\nKBJ03QK6ko8ycVfOd289iwdJYnpfAqKAKNh+71lli+Q6lkNY9e+BCrOuA4cmzzSv\nZTbUZijW4RsEHxaOzq1vJLO52xNTlZsGWuo7cQt1h+iSoTi772i+Hm5JuPcMM+7E\nziZ79V/fg2PKurnSShcnZxCZqxxpNW7Cw1r8La5d+DK+Hb+rswgng94PXi5e05fC\nfdnwppUPpOSPpfmiDzg7wSrnrDZ/W3umQQ5BB6aTy451/v/HEpouzzgkE9ak/ma4\n5F8d4NWNAgMBAAECggEAALZ43P2EJxu716lLWS2fvC2YpawVDmHszjHQstZin7yI\nL7EVVIqFgUgAWn/j/5NtvN4HQAplUFqnB276zI6TfTiRJvnPb5rd70ZfQkMEIv7X\nuPMpbxVrZlWU7Qpkc0zvui1mVNqnHZ4NzsvW59DkLny0AYn2oYaVdGma+6/4Osyg\nFq5jvkwxT6qv/WbgljFH+OtFpcecaKTiAxIcUaLrbn8OtbyzrlcVT/4drgPW2dpl\nimEDdlgLzFr0o9j9gh3VxQCxINepuO2zNb8N+k8R7Pp0fO7Feiq2OfNPAPnqwJ6h\nWnTT88HCg53EQI3/Joa2S5/pkaWYeoKlzltzQs0a4wKBgQDwqFRaDF9BfdkYpAyf\niDXAbrVr1IQ1Op/mahhNgExusHS7FtKLkPa4KE8YbMY15hh/ow2+P7AyQ1ga+Hb2\na2RwLaCu1Kp0IeSsQq59NIwfYiSWa+4W/PZ6ldbREBPRLFY6aZiDralUXCY9AaMu\nrCQieThy+ndYQHNP6NM6Lk9l+wKBgQDmlnp5/BB4wtJDpkY1VST4Qg11oEIxxopY\nAEgYPn6wioqNn9Ec+uxu8YR18OF+7uvC18Zuk38ZB1EZyaeNIjNoDrjbcGg3dNu/\nnAGVUuoR1XBO3ep6xiJfA7iDFN42W3m0XRx5P/YODuwoFs9lkeNk5XQXD0gAWIOV\n6n2zMHhEFwKBgQC2B2y+K+uFGw6xv6w4owudQWACbt2NcYlu/ELjpC6r7tZsiOe6\nX2zugLbLD8OhEyjmqkuD4qKAckXbKKK64yI2Y5zNgNhpPRW9YjafR7bRKifoizys\nsKwyrtGsko+awQF771FIEHwq7gSSUoG+lMBEPxJ+jYrl+uH9yGq08EBoLwKBgQCU\nTVe8ONfHM1XUWI5zIq3CVYkei9HG/bBgZN35achFdvUhnRX7E48Y05Cj4ibFYpiT\nGf/vgkGOMVyBv2ZZqRNy63UM/UCp2iizFX0XMtqEWcf/kU6LY/8bKON0uukoALFH\nxVLY0MBJzmMobXM6Ghgr/j8pzZQ7VLJcqxHpO1U+RQKBgAugTnyH2PcaM2HL3lvK\nwjWUS0EZV0rubHsMmxgzlPIDiWI3rEVswkTSpzyyilHOjCwG9zxQYrZB6m8gatwG\nXULHzCNFrXuRuMAZJXwgxKNv4TpRlVUnfNAYdObkTSvaeYSjOKY5rOcPTbubwfPH\nU5o++8dc720FbnuVE9CQzuuI\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech2text@heroic-climber-285504.iam.gserviceaccount.com",
+  "client_id": "103370714064174063360",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech2text%40heroic-climber-285504.iam.gserviceaccount.com"
+}
